@@ -57,13 +57,12 @@ html {
 
 body {
   font-size: 1.125rem;
-  background-color: lightgreen;
+  background-color:goldenrod;
 }
 
 header {
   background-color: black;
 }
-
 main {
   max-width: 1200px;
   width: 100%;
@@ -89,7 +88,7 @@ ul {
 li {
   flex: 0 1 45%;
   height: 200px;
-  border: 2px dashed red;
+  border: 2px dashed orangered;
   margin-top: 1rem;
   display: flex;
   align-items: center;
@@ -105,7 +104,7 @@ h2 {
 
 cite {
   font-size: 1.5rem;
-  font-weight: 600;
+  font-weight: 800;
   margin-top: 0.75rem;
 }
 p {
@@ -137,7 +136,7 @@ button {
   margin-top: 20rem;
   height: 50px;
   width: 50px;
-  border: 7px solid rgba(255, 255, 255, 0.8);
+  border: 7px solid rgba(255, 255, 255, 0.438);
   border-left-color: black;
   border-radius: 50%;
   animation: spinner-run 1.5s linear infinite;
@@ -153,7 +152,7 @@ margin: 0 auto;
 top: 1rem;
 left:1rem;
 border-radius: 1rem;
-background-color:rgb(172, 26, 177);
+background-color: lightseagreen;
 padding : 4rem 1rem 1rem 1rem;
 display:none;
 }
@@ -186,7 +185,7 @@ display:none;
 .characters{
   color:#fff;
   font-size: 1.3rem;
-  font-weight: 800;
+  font-weight: 700;
   position:absolute;
   top: 1rem;
   left: 1rem;
